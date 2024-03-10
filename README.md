@@ -1,4 +1,4 @@
-# CoinControl - Group 6
+# CoinControl - Expense Tracker
 A project for the course <b/>CPE106 - Software Design Lecture<b/>. <br/>
 ## Group 6
 <ul>
